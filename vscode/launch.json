@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DdjefTransApplication<ddjef-trans>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ddjef.DdjefTransApplication",
+            "projectName": "ddjef-trans",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
